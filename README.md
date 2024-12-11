@@ -1,2 +1,9 @@
-# dotfiles
-Sane command line settings sync for multiple devices and platforms
+# 
+
+> **
+
+---
+
+---
+
+**(ɔ) 2024 [Brenton Holiday](https://brenton.holiday)**
