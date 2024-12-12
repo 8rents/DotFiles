@@ -19,19 +19,16 @@ Do note that this is the docs branch and there are no dotfiles currently stored 
 - blank - A blank branch that other branches are derived from. Only contains a blank README.md template
 - docs - branch containing all the info on this repository
 
-## Links
+## Guides
 
-Some helpful resources & guides on the subject
+### [Starting from Scratch](starting-from-scratch/README.md)
+  Setting up a bare git repository to hold dotfiles from scratch
 
-### Guides I wrote
+## Reference
 
-- [Starting from Scratch](starting-from-scratch/README.md) - Setting up a bare git repository to hold dotfiles from scratch
+### [Atlassian guide on setting up a bare git repo that I used to create this repo](https://www.atlassian.com/git/tutorials/dotfiles)
 
-### External Links
-
-Guides and articles that I didn't write
-
-- [Atlassian guide on setting up a bare git repo that I used to create this repo](https://www.atlassian.com/git/tutorials/dotfiles)
+First article / blog post published after the [Original hacker new thread](https://news.ycombinator.com/item?id=11070797) answered by StreakyCobra asking HN about techniques on how to manage dotfiles.
 
 ---
 

@@ -1,4 +1,5 @@
-# Starting from Scratch
+# Starting from Scratch 
+#### Creating a bare repo to hold 
 
 > *Creating a bare git repository to hold dotfiles from scratch*
 
@@ -26,8 +27,17 @@ config config --local status.showUntrackedFiles no
 echo "alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'" >> $HOME/.bashrc
 ```
 
-*more on this later...*
+*Mmmmmmmmore on this later...*
 
 ---
 
-(<3) 2024 8rents 
+## Links
+
+- ### [Understanding Git Repository layout](https://git-scm.com/docs/gitrepository-layout)   
+    So you understand that `--working-tree` and `--git-dir` line. 
+
+    ***Read it...** so you aren't a dumb cunt*
+
+---
+
+**<3 2024** by **[8rents](../)**
