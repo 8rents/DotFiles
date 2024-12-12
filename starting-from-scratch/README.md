@@ -1,7 +1,6 @@
-# Starting from Scratch 
-#### Creating a bare repo to hold 
+# Starting from Scratch
 
-> *Creating a bare git repository to hold dotfiles from scratch*
+> ***Creating a bare git repository to hold dotfiles from scratch***
 
 ---
 
@@ -33,8 +32,9 @@ echo "alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'" >
 
 ## Links
 
-- ### [Understanding Git Repository layout](https://git-scm.com/docs/gitrepository-layout)   
-    So you understand that `--working-tree` and `--git-dir` line. 
+- ### [Understanding Git Repository layout](https://git-scm.com/docs/gitrepository-layout)
+
+    So you understand that `--working-tree` and `--git-dir` line.
 
     ***Read it...** so you aren't a dumb cunt*
 
