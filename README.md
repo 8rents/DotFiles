@@ -1,4 +1,4 @@
-# 8rent's Dotfiles Documentation
+# 8rent's Dotfiles
 
 > *This is the documentation branch of 8rents dotfiles repository.*
 
