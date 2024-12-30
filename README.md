@@ -1,8 +1,16 @@
-# Dotfiles `blank branch`
+# Android Dotfiles
  
->  *nuffin*
+>  *Experimemtal dotfiles repo for Android*
 
 ---
+
+## Links
+
+- [Attlasian Dotfiles set up guide](https://www.atlassian.com/git/tutorials/dotfiles)
+
+## Set up
+
+
 
 ---
 
